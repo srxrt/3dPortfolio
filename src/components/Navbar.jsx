@@ -27,7 +27,7 @@ const Navbar = () => {
 						className="w-9 h-9 object-contain"
 					/>
 					<p className="text-white text-[18] font-bold cursor-pointer flex">
-						Shokhrukh{"  "}
+						Shoxrux{"  "}
 						<span className="sm:block hidden">
 							{" "}
 							| Frontend Web Developer
