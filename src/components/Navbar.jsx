@@ -30,7 +30,7 @@ const Navbar = () => {
 						Shoxrux{"  "}
 						<span className="sm:block hidden">
 							{" "}
-							| Frontend Web Developer
+							&nbsp;| Frontend Web Developer
 						</span>
 					</p>
 				</Link>
