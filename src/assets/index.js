@@ -30,6 +30,7 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import quiz from "./quiz.png";
 import logo1 from "./logo1.svg";
 
 export {
@@ -61,6 +62,7 @@ export {
 	starbucks,
 	tesla,
 	carrent,
+	quiz,
 	jobit,
 	tripguide,
 };
