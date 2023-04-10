@@ -4,6 +4,7 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
+import globe from "./globe.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -29,6 +30,7 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import quiz from "./quiz.png";
 import logo1 from "./logo1.svg";
 
 export {
@@ -38,6 +40,7 @@ export {
 	creator,
 	mobile,
 	web,
+	globe,
 	github,
 	menu,
 	close,
@@ -59,6 +62,7 @@ export {
 	starbucks,
 	tesla,
 	carrent,
+	quiz,
 	jobit,
 	tripguide,
 };

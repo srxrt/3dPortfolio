@@ -21,6 +21,7 @@ import {
 	shopify,
 	carrent,
 	jobit,
+	quiz,
 	tripguide,
 	threejs,
 } from "../assets";
@@ -198,37 +199,38 @@ const testimonials = [
 
 const projects = [
 	{
-		name: "Car Rent",
+		name: "Cryptoverse",
 		description:
-			"Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+			"This app uses Coinranking API from rapidapi.com to show details about different cryptocurrencies in the world at the moment and also news about cryptos.",
 		tags: [
 			{
 				name: "react",
 				color: "blue-text-gradient",
 			},
 			{
-				name: "mongodb",
+				name: "redux",
 				color: "green-text-gradient",
 			},
 			{
-				name: "tailwind",
+				name: "antd",
 				color: "pink-text-gradient",
 			},
 		],
 		image: carrent,
-		source_code_link: "https://github.com/",
+		source_code_link: "https://github.com/shokhrukh-rt/cryptoapp",
+		site_link: "https://str-cryptoapp.netlify.app/",
 	},
 	{
-		name: "Job IT",
+		name: "NFT Marketplace",
 		description:
-			"Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+			"Introducing NFT Marketplace mobile app, where digital art and collectibles come to life! Our app is a shop for buying, selling, and trading unique and assets in the form of NFTs.",
 		tags: [
 			{
 				name: "react",
 				color: "blue-text-gradient",
 			},
 			{
-				name: "restapi",
+				name: "react native",
 				color: "green-text-gradient",
 			},
 			{
@@ -237,28 +239,53 @@ const projects = [
 			},
 		],
 		image: jobit,
-		source_code_link: "https://github.com/",
+		source_code_link: "https://github.com/shokhrukh-rt/nft_showcase",
+		site_link: "https://sshowcase.netlify.app/",
 	},
 	{
-		name: "Trip Guide",
+		name: "Landing Page",
 		description:
-			"A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+			"A beautiful landing page for small startups and businesses. Very fast and reliable. Created this using Next.js. The page has pricing, features and testimonials sections.  ",
 		tags: [
 			{
 				name: "nextjs",
 				color: "blue-text-gradient",
 			},
 			{
-				name: "supabase",
+				name: "framer-motion",
 				color: "green-text-gradient",
 			},
 			{
-				name: "css",
+				name: "theme-ui",
 				color: "pink-text-gradient",
 			},
 		],
 		image: tripguide,
-		source_code_link: "https://github.com/",
+		source_code_link: "https://github.com/shokhrukh-rt/landing-page-nextjs",
+		site_link: "https://slanding.netlify.app/",
+	},
+
+	{
+		name: "Quizz App",
+		description:
+			"A simple quizz app that gets random questions and shows as a multiple choice questions. After 10 questions gives the final result.",
+		tags: [
+			{
+				name: "typescript",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "react",
+				color: "green-text-gradient",
+			},
+			{
+				name: "styled-components",
+				color: "pink-text-gradient",
+			},
+		],
+		image: quiz,
+		source_code_link: "https://github.com/shokhrukh-rt/quiz-app",
+		site_link: "https://squizzapp.netlify.app/",
 	},
 ];
 
